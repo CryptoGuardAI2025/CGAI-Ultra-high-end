@@ -1,0 +1,1 @@
+// TradingView Script wird direkt in crypto.html eingebunden.
